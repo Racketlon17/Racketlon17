@@ -4,7 +4,7 @@
 
 ```python
 Languages: Python, C#, C++, JavaScript
-Focus areas: Robotics, Machine Learning, Cybersecurity
+Focus areas: Robotics, Machine Learning, Cybersecurity, Physics
 ```
 
 ## Current Project
