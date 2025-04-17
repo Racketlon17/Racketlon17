@@ -3,7 +3,7 @@
 ## Technical Skills
 
 ```python
-Languages: Python, C#, C++, JavaScript
+Languages: Python, C#, C++, JavaScript, Java
 Focus areas: Robotics, Machine Learning, Cybersecurity, Physics
 ```
 
