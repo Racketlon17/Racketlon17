@@ -11,14 +11,6 @@ Focus areas: Robotics, Machine Learning, Cybersecurity, Physics
 
 - **Physics Simulation Engine**: Developing a 2D collision simulation with rotational dynamics [Check it out](https://github.com/Racketlon17/2d-collision-simulator)
 
-## Robotics & ML
-
-I am learing to develop intelligent systems that combine:
-- Robot kinematics and dynamics
-- Computer vision
-- Deep learning models
-- Reinforcement learning
-
 ## Cybersecurity
 
 Areas I'm particularly interested in:
